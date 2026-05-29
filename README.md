@@ -21,7 +21,7 @@ I am an Electronics Engineering Student and I am currently an First Year College
 - PCB DESIGN
 - EASYEDA
 
-  # PROJECT
+ # PROJECT
 
 My first project during Second Semester is Idiyanale NPK Sensor, Under the gudance of Sir Kodic De Guzman and Sir Julius Faustino.
 This project was succesfully preseted during our school exhibit, allowing us to showcase our programming, hardware integration and teamwork skills.
